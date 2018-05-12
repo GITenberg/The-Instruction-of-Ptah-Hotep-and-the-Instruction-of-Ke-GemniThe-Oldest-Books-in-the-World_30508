@@ -1,0 +1,38 @@
+_repo: The-Instruction-of-Ptah-Hotep-and-the-Instruction-of-Ke-GemniThe-Oldest-Books-in-the-World_30508
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gunn, Battiscombe G. (Battiscombe George)
+    birthdate: 1883
+    deathdate: 1950
+    gutenberg_agent_id: '34651'
+    url: http://www.gutenberg.org/2009/agents/34651
+    wikipedia: http://en.wikipedia.org/wiki/Battiscombe_Gunn
+covers:
+- cover_type: archival
+  image_path: 30508-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Ptahhotep
+    gutenberg_agent_id: '34654'
+    url: http://www.gutenberg.org/2009/agents/34654
+  - agent_name: Kagemna
+    gutenberg_agent_id: '34655'
+    url: http://www.gutenberg.org/2009/agents/34655
+description: ''
+gutenberg_issued: '2009-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maxims -- Early works to 1800'
+- !lcc 'PJ'
+- !lcsh 'Conduct of life -- Early works to 1800'
+title: 'The Instruction of Ptah-Hotep and the Instruction of Ke''Gemni
+
+  The Oldest Books in the World'
+url: http://www.gutenberg.org/ebooks/30508
