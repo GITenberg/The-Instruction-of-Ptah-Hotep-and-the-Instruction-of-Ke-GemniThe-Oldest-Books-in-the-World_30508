@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34655'
     url: http://www.gutenberg.org/2009/agents/34655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30508#The-Instruction-of-Ptah-Hotep-and-the-Instruction-of-Ke-GemniThe-Oldest-Books-in-the-World
 gutenberg_issued: '2009-11-20'
 gutenberg_type: Text
 identifiers:
